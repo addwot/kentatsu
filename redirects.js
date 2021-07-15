@@ -13,7 +13,7 @@ var redirects = [
     id: "0E4005623010062100030053",
     url: "https://uploads-ssl.webflow.com/6027c95a14a2c5db06524e5c/60c8fe5537f5ee23ce7aaaf2_1623748224223627-compressed.pdf",
   },
-  { id: "0E4005623010062100030062", url: "kentatsu.ua" },
+  { id: "0E4005623010062100030062", url: "https://kentatsu.ua" },
   { id: "0E4005623010062100030103", url: "kentatsu.ua" },
   { id: "0E4005623010062100030069", url: "kentatsu.ua" },
   { id: "0E4005623010062100030060", url: "kentatsu.ua" },

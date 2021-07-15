@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   var qrRedirectId = getQueryParams("qr");
 
   if (qrRedirectId) {
-    var redirectUrl = qrRedirectId.filter((e) => e.id === qrRedirectId);
+    var redirectUrl = redirects.filter((e) => e.id === qrRedirectId);
 
     if (redirectUrl) {
       // Do redirect
